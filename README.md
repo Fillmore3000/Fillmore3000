@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Fillmore3000
-- 👀 I’m interested in BlockChain Gaming
+- 👀 I’m interested in BlockChain and Gaming Development
 - 🌱 I’m currently learning Python, React, Solidity
 - 💞️ I’m looking to collaborate on Dev teams
 - 📫 How to reach me at: h.apaw@fillmore-media.com and www.henryapaw.com
